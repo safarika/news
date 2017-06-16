@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="newspublic"
+  id="myeclipse.1494596948333"
+  context-root="/newspublic"
+  j2ee-spec="5.0"
+  archive="newspublic.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
